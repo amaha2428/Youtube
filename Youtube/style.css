@@ -1,0 +1,50 @@
+.textfield input{
+    position:absolute;
+    border-radius: 10px;
+    width: 450px;
+    padding: 1em 1.5em;
+    top: 50%;
+    left: 35%;
+    box-shadow: rgba(0, 0, 0,0.12) 0px 1px 3px, rgba(0, 0, 0,0.24) 0px 1px 2px;
+    border: none;
+
+}
+.textfield input:focus{
+    outline: 0;
+}
+.text{
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+.new-btn button{
+    position: absolute;
+    width: 200px;
+    padding: 1em 1.5em;
+    border-radius: 25px;
+    color:#fff;
+    background-color: darkgreen;
+    box-shadow: rgba(0, 0, 0,0.12) 0px 1px 3px, rgba(0, 0, 0,0.24) 0px 1px 2px;
+    border: none;
+    top:70%;
+    left: 43%;
+    cursor: pointer;
+
+}
+.video video{
+    position: absolute;
+    top: 30%;
+    left: 37%;
+    border-radius: 10px;
+}
+.download .btn{
+    margin-top: 50%;
+    margin-left: 45%;
+    background-color: darkgreen;
+    width: 200px;
+    padding: 0.8em 1em;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0,0.12) 0px 1px 3px, rgba(0, 0, 0,0.24) 0px 1px 2px;
+}
